@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao, Ph.D."
+title: "Maxence Hussonnois"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,9 +16,9 @@ My main research interests are cybersecurity, ethics, social bias in machine lea
 I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
 Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
 
-I am learning Spanish and Mandarin, and I would love to practice with you!
 
-<img src="/images/Bhalerao2021.jpeg" width="200">
+
+
 
 ## News
 
