@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxence Hussonnois"
 title_separator          : "-"
 name                     : &name "Maxence Hussonnois"
-description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
+description              : &description "I am a PhD Student in Reinforcement Learning at Applied Artificial Intelligence Institute."
 url                      : https://HussonnoisMaxence.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HussonnoisMaxence/HussonnoisMaxence.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Maxence Hussonnois"
-  avatar           : "images/HussonnoisMaxence.JPG"
-  bio              : "blabla "
-  location         : "ra@gmail.com"
-  employer         : "New York University"
+  avatar           : "HussonnoisMaxence.JPG"
+  bio              : "I am a PhD Student in Reinforcement Learning at Applied Artificial Intelligence Institute."
+  location         : "mhussonnois@gmail.com"
+  employer         : "Applied Artificial Intelligence Institute"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+  googlescholar    : "https://scholar.google.com/citations?user=ay4SLQMAAAAJ&hl=en"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :

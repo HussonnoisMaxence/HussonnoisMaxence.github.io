@@ -8,13 +8,10 @@ redirect_from:
   - about.html
 ---
 
-Hi! I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences in the San Francisco Bay Area campuses! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
-My pronouns are she/her.
+I am a Ph.D. student in Reinforcement Learning at the Applied Artificial Intelligence Institute(https://a2i2.deakin.edu.au)  at Deakin University in Australia. I am advised by Thommen George Karimpanal (https://www.thommengk.com) and Santu Rana (https://scholar.google.com.au/citations?user=S9PwnMYAAAAJ&hl=en). Previously, I interned at NAVER LABS Europe (https://europe.naverlabs.com/) with Hervé Déjean (https://scholar.google.com/citations?user=ADMeAc4AAAAJ&hl=fr) and Romain Deffayet (https://www.deffayet.cc/).  I've been nominated for the Pragnesh Jay Modi Best Student Paper Award at AAMAS 2023.
 
 
-My main research interests are cybersecurity, ethics, social bias in machine learning, and teaching ethical computing. 
-I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
-Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
+In my current research, I'm focused on autonomous skill discovery and how we can incorporate human feedback to learn a more desirable set of diverse skills in reinforcement learning. 
 
 
 
