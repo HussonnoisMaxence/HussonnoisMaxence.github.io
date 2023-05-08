@@ -17,4 +17,3 @@ author_profile: true
 **Maxence Hussonnois** and Jae-Yun Jun,
 "[End-to-end autonomous driving using the Ape-X algorithm in Carla simulation environment](https://ieeexplore.ieee.org/abstract/document/9829674)," 2022 Thirteenth International Conference on Ubiquitous and Future Networks,  **(ICUFN 2022)** 
 
-\* indicates equal contribution.
