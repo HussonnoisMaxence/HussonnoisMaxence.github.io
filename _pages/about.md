@@ -18,6 +18,6 @@ In my current research, I'm focused on autonomous skill discovery and how we can
 
 
 ## News
-
+- Our paper "[Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment](https://arxiv.org/abs/2501.17431)" has been accepted  at the The International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
 - Our paper "[Controlled Diversity with Preference : Towards Learning a Diverse Set of Desired Skills](https://arxiv.org/abs/2303.04592)" has been nominated for the best paper award at the The International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023).
 - Our paper "[Controlled Diversity with Preference : Towards Learning a Diverse Set of Desired Skills](https://arxiv.org/abs/2303.04592)" has been accepted  at the The International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023).

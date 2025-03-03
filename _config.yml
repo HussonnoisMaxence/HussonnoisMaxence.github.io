@@ -11,7 +11,7 @@ title                    : "Maxence Hussonnois"
 title_separator          : "-"
 name                     : &name "Maxence Hussonnois"
 description              : &description "I am a PhD Student in Reinforcement Learning at Applied Artificial Intelligence Institute."
-url                      : https://HussonnoisMaxence.github.io
+url                      : https://Maxence_Hussonnois.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HussonnoisMaxence/HussonnoisMaxence.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
