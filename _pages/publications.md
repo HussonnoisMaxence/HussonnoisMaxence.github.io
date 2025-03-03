@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 **Maxence Hussonnois**, Thommen George Karimpanal and Santu Rana
+"[Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment](https://arxiv.org/abs/2501.17431)," Accepted in AAMAS 2025 [(Arxiv preprint)](https://arxiv.org/abs/2501.17431)
+
+**Maxence Hussonnois**, Thommen George Karimpanal and Santu Rana
 "[Controlled Diversity with Preference : Towards Learning a Diverse Set of Desired Skills](https://arxiv.org/abs/2303.04592)," Accepted in AAMAS 2023 [(Arxiv preprint)](https://arxiv.org/abs/2303.04592)
 
 **Maxence Hussonnois** and Jae-Yun Jun,
